@@ -1,0 +1,3 @@
+netstat -ano
+
+tasklist /svc

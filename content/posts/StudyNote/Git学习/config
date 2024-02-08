@@ -1,0 +1,3 @@
+Host github.com
+  HostName github.com
+  IdentityFile C:/Users/Admin/.ssh/id_rsa_git
