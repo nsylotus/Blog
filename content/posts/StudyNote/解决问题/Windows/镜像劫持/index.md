@@ -1,9 +1,9 @@
 ---
 title: "镜像劫持" # 文章标题.
-date: 2023--1-20
+date: 2023-01-20
 draft: false
 tags: ["Windows"]
-categories: ["二进制"]
+categories: ["Windows优化"]
 ---
 
 # 镜像劫持
