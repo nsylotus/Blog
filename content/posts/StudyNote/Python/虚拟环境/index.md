@@ -1,3 +1,11 @@
+---
+title: "Python环境搭建" # 文章标题.
+date: 2024-02-15
+draft: false
+tags: ["Python"]
+categories: ["环境搭建"]
+---
+
 # python虚拟环境
 
 python -m venv -h 查看帮助
